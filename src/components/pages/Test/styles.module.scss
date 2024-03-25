@@ -1,0 +1,11 @@
+.homeContainer {
+}
+
+.arrow {
+  composes: unselectable from "~/src/css/properties/unselectable.module.scss";
+  color: rgb(0, 0, 0, 0.5);
+  pointer-events: none;
+}
+
+@media only screen and (min-width: 768px) {
+}
