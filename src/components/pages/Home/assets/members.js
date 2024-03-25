@@ -1,14 +1,14 @@
 import {
-  nymbrixion,
-  nymbrixionIcon,
+  nymbryxion,
+  nymbryxionIcon,
 } from './images';
 
 const members = [
   {
-    alias: 'Nymbrixion',
+    alias: 'Nymbryxion',
     handle: 'Nymbryxion101',
-    image: nymbrixion,
-    icon: nymbrixionIcon,
+    image: nymbryxion,
+    icon: nymbryxionIcon,
     name: 'Andrew',
   },
 ];

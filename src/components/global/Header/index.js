@@ -2,7 +2,7 @@ import styles from './styles.module.scss';
 const Header = () => {
   return (
     <div className={styles.headerContainer}>
-      <h1>Anidraw &lt;3 Nymbrixion</h1>
+      <h1>Anidraw &lt;3 Nymbryxion</h1>
       {/* <div className={styles.linksContainer}>
         <a href="https://instagram.com/oponn_">haha</a>
         <a href="https://instagram.com/oponn_">hehe</a>
